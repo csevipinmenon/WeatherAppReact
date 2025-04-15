@@ -1,4 +1,4 @@
-/*************  ✨ Windsurf Command ⭐  *************/
+
 # Weather App
 
 This is a simple weather app built with React and Tailwind CSS.
@@ -8,7 +8,7 @@ This is a simple weather app built with React and Tailwind CSS.
 1. Clone the repo
 2. Run `npm install`
 3. Run `npm run dev`
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+)
 
 ## Features
 
@@ -27,4 +27,3 @@ This is a simple weather app built with React and Tailwind CSS.
 - Add more features (e.g. 5-day forecast, weather radar, etc.)
 - Add more styling and animations
 - Add error handling for API calls
-/*******  32400924-4ea2-47aa-acea-5f5962c042fc  *******/
